@@ -4,7 +4,7 @@
 ## Team Members
 -	Jane Liu
 -	Mia Song
--	Minh Vo
+-	[Minh Vo](https://github.com/minhdvo1703)
 -	Nida Ulhaq Fitriyah
 -	Rolamjaya Hotmartua
 -	[Sakshi Shende](https://github.com/sakshi-shende)
