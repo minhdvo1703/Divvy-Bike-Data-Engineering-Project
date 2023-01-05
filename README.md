@@ -3,7 +3,7 @@
 
 ## Team Members
 -	Jane Liu
--	Mia Song
+-	[Mia Song](https://github.com/msong507)
 -	[Minh Vo](https://github.com/minhdvo1703)
 -	Nida Ulhaq Fitriyah
 -	Rolamjaya Hotmartua
