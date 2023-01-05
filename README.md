@@ -7,7 +7,7 @@
 -	Minh Vo
 -	Nida Ulhaq Fitriyah
 -	Rolamjaya Hotmartua
--	Sakshi Shende
+-	[Sakshi Shende](https://github.com/sakshi-shende)
 
 ## Executive Summary
 Divvy is a bike-sharing system in Chicago, owned by the Chicago Department of Transportation. 
