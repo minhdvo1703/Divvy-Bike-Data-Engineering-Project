@@ -6,7 +6,7 @@
 -	[Mia Song](https://github.com/msong507)
 -	[Minh Vo](https://github.com/minhdvo1703)
 -	Nida Ulhaq Fitriyah
--	Rolamjaya Hotmartua
+-	[Rolamjaya Hotmartua](https://github.com/Rolamjaya)
 -	[Sakshi Shende](https://github.com/sakshi-shende)
 
 ## Executive Summary
