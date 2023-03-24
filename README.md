@@ -5,7 +5,7 @@
 -	Jane Liu
 -	[Mia Song](https://github.com/msong507)
 -	[Minh Vo](https://github.com/minhdvo1703)
--	Nida Ulhaq Fitriyah
+-	[Nida Ulhaq Fitriyah](https://github.com/nidafitriyah)
 -	[Rolamjaya Hotmartua](https://github.com/Rolamjaya)
 -	[Sakshi Shende](https://github.com/sakshi-shende)
 
